@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9558359f-e2af-47f0-82ff-02580308be7f</folder>
+	<filename>il_570xN.1556267896_l54n.jpg</filename>
+	<path>/home/girish332/Desktop/darknet/custom_data/images2/9558359f-e2af-47f0-82ff-02580308be7f/il_570xN.1556267896_l54n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>570</width>
+		<height>570</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>41</ymin>
+			<xmax>366</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+</annotation>

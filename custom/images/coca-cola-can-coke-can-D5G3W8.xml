@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9558359f-e2af-47f0-82ff-02580308be7f</folder>
+	<filename>coca-cola-can-coke-can-D5G3W8.jpg</filename>
+	<path>/home/girish332/Desktop/darknet/custom_data/images2/9558359f-e2af-47f0-82ff-02580308be7f/coca-cola-can-coke-can-D5G3W8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>866</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>323</ymin>
+			<xmax>548</xmax>
+			<ymax>1004</ymax>
+		</bndbox>
+	</object>
+</annotation>
